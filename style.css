@@ -254,6 +254,9 @@ img{
     border-radius: 7.5px;
     margin: 20px 0;
 }
+.footer-social-links{
+    cursor: pointer;
+}
 
 .btn{
     display: inline-block;
